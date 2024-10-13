@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Implement a reviews or feedback section on the website. This will help us gather insights on how to improve our services.
+We will add a description for each video in the video section.
